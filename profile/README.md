@@ -72,4 +72,7 @@ ISA's reference disassembler where one exists. See each module's
 
 ## License
 
-All modules MIT licensed.
+All modules are AGPL-3.0-or-later. Free for academic, personal, and
+open-source use; a commercial licence is available from the copyright
+holder for proprietary use — contact cwright7101@gmail.com or via
+https://github.com/cwright7101.
